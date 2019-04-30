@@ -1,6 +1,8 @@
 
 # hello Class
 # haha~
+# <@author> zach
+>>>>>>> dev
 public class hello {
 
 
