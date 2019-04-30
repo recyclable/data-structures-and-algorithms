@@ -3,4 +3,4 @@
 
 aaa
 
-checkout a new branch is quick
+checkout a new branch is quick & simple.
